@@ -1,5 +1,6 @@
 body {
-  margin: 0;
+    margin: 0;
+    background-color: lightblue;
 }
 
 #title {
@@ -54,8 +55,8 @@ body {
 }
 img {
   vertical-align: middle;
-/*  margin-right: 5px;
-  margin-bottom: 5px; */
+  margin-right: 5px;
+  margin-bottom: 5px;
 }
 p {
   margin-bottom: 5px;
